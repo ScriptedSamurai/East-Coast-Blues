@@ -1,0 +1,4 @@
+﻿graphical_culture = brotherhood_gfx
+graphical_culture_2d = brotherhood_2d
+color = {  38 20 10  }
+
