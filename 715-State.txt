@@ -1,0 +1,32 @@
+
+state={
+	id=715
+	name=" The Citadel"
+	resources = {
+		fuel = 20
+		metal = 20
+		electronics = 40
+		advanced_technology = 50
+		water = 50
+	}
+	history={
+		owner = EBH
+		add_core_of = EBH
+		victory_points = {
+			1118 30
+		}
+		buildings = {
+			infrastructure = 10
+			arms_factory = 10
+			industrial_complex = 10
+			air_base = 2
+		}
+
+	}		
+	provinces={
+		1096 1099 1101 1104 1106 1110 1118 1124  
+	}
+	manpower = 1000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}
